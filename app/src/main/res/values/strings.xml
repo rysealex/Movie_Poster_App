@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Movie Poster App</string>
+    <string name="poster">Alex Poster</string>
+    <string name="add_to_watchlist">Add to Alex Watchlist</string>
+</resources>
